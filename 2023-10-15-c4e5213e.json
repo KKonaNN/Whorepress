@@ -1,0 +1,16 @@
+{
+    "BuildID": "@KonaN1887",
+    "TableCount": 2,
+    "Data": [
+        {
+            "URL": "target.com/wp-login.php",
+            "Email": "email",
+            "Password": "password"
+        },
+        {
+            "URL": "target2.com/wp-login.php",
+            "Email": "email",
+            "Password": "password"
+        }
+    ]   
+}
