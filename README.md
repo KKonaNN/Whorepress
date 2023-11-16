@@ -9,7 +9,7 @@
 ---------------------------------------
 
 <div align="center">
-  <a href="https://github.com/Plasmonix/Netflixer">
+  <a href="https://github.com/KKonaNN/Whorepress/">
     <img src="https://github.com/KKonaNN/Whorepress/assets/87090666/3649534b-475d-40a2-95dd-1de4cc5caf30">
   </a>
   
